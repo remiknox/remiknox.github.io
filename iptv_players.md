@@ -11,7 +11,7 @@ ___
     * [APK Download](https://files.tivimate.com/tivimate.apk)
     * Downloader: 272483
 * Price: Lifetime (5 devices) US$33.88 / CA$44.99
-![TiviMate Screenshot](/Screenshots/TiviMate.png)
+<img src="/Screenshots/TiviMate.png" height=300>
 
 ### Sparkle Player
 * Website: None
@@ -21,7 +21,7 @@ ___
     * [APK Download](https://dl.dropbox.com/scl/fi/6huxctu1d3uznqtl6swx9/sparkle_202028.apk?rlkey=b3784fffrt5m9mptd3wh92fum&st=js1hbvtw&dl=1)
     * Downloader: 2696977
 * Price: Unknown
-![Sparkle Screenshot](/Screenshots/Sparkle.png)
+<img src="/Screenshots/Sparkle.png" height=300>
 
 ### IPTV Smarters
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
@@ -29,7 +29,7 @@ ___
     * [APK Download](https://www.iptvsmarters.com/download?download=android)
     * Downloader: 6468112
 * Price: N/A
-![Smarters Screenshot](/Screenshots/Smarters.jpg)
+<img src="/Screenshots/Smarters.jpg" height=300>
 
 ___
 
@@ -41,7 +41,7 @@ ___
 * Download:
     * [Apple App Store](https://apps.apple.com/us/app/uhf-love-your-iptv/id6443751726)
 * Price: Lifetime (5 devices) CA$69.99
-![UHF Screenshot](/Screenshots/UHF.jpeg)
+<img src="/Screenshots/UHF.jpeg" height=300>
 
 ### Chillio
 * Website: [Chillio.app](https://chillio.app/)
@@ -51,14 +51,14 @@ ___
 * Price:
      * Lifetime (individual) US$99.99
      * Lifetime (family) US$199.99
-![Chillio Screenshot](/Screenshots/Chillio.jpg)
+<img src="/Screenshots/Chillio.jpg" height=300>
   
 ### Smarters Player Lite
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
 * Download:
     * [Apple App Store](https://apps.apple.com/us/app/smarters-player-lite/id1628995509)
 * Price: Premium Lifetime CA$2.99
-![Smarters Screenshot](/Screenshots/Smarters.jpg)
+<img src="/Screenshots/Smarters.jpg" height=300>
 
 ___
 
