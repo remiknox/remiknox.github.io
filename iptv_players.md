@@ -1,22 +1,22 @@
-Recommended Players
+# Recommended Players
 
-# Android
-## TiviMate
+## Android
+### TiviMate
 * Website: [TiviMate.com](tivimate.com)
 * [Google Play Store](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
 * [APK Download](https://files.tivimate.com/tivimate.apk)
 * Downloader: 272483
 * Price: Lifetime (5 devices) US$33.88 / CA$44.99
 
-## Sparkle Player
+### Sparkle Player
 
-## IPTV Smarters
+### IPTV Smarters
 
-# iOS
+## iOS
 
-## UHF
+### UHF
 
-## Chillio
+### Chillio
 
-## IPTV Smarters
+### IPTV Smarters
 
