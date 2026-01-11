@@ -4,4 +4,4 @@ This is test content
 # hello
 ## hi 
 abc
-[test.md]
+[test.md](test.md)
