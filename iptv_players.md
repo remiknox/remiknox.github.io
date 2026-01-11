@@ -65,7 +65,7 @@ ___
     * [Apple App Store](https://apps.apple.com/us/app/smarters-player-lite/id1628995509)
 * Price: Premium Lifetime CA$2.99
 
-<img src="/Screenshots/Smarters.jpg" height=300>
+<img src="/Screenshots/Smarters.jpg" height=300 width=auto>
 
 ___
 
