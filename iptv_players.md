@@ -67,6 +67,7 @@ ___
 ___
 # Strong 8K Apps
 These apps are not recommended for long-term use, but can be useful for trialing the software / different players. 
+
 |App|Release Date|Downloader Code|Notes|Screenshot|
 |:-|:-|:-|:-|:-|
 |Fast 8k Player|2024-05-04|948558||[Screenshot](https://i.ibb.co/fdTSPwHq/Screenshot-Fast-8-K-Player.png)|
