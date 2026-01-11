@@ -1,5 +1,7 @@
 # Recommended Players
+
 ___
+
 ## Android
 ### TiviMate
 * Website: [TiviMate.com](https://tivimate.com)
@@ -9,7 +11,7 @@ ___
     * [APK Download](https://files.tivimate.com/tivimate.apk)
     * Downloader: 272483
 * Price: Lifetime (5 devices) US$33.88 / CA$44.99
-* ![TiviMate Screenshot](/Screenshots/TiviMate.png)
+![TiviMate Screenshot](/Screenshots/TiviMate.png)
 
 ### Sparkle Player
 * Website: None
@@ -28,7 +30,9 @@ ___
     * Downloader: 6468112
 * Price: N/A
 ![Smarters Screenshot](/Screenshots/Smarters.jpg)
+
 ___
+
 ## iOS
 
 ### UHF
@@ -55,14 +59,18 @@ ___
     * [Apple App Store](https://apps.apple.com/us/app/smarters-player-lite/id1628995509)
 * Price: Premium Lifetime CA$2.99
 ![Smarters Screenshot](/Screenshots/Smarters.jpg)
+
 ___
+
 ## Windows
 ### IPTV Smarters
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
 * Download:
     * [Installer Download](https://www.iptvsmarters.com/download?download=windows_app)
 * Price: N/A
+
 ___
+
 ## Mac
 ### IPTV Smarters
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
@@ -70,7 +78,9 @@ ___
     * [Installer Download](https://www.iptvsmarters.com/download?download=mac)
 * Price: N/A
 * **Note: TBD whether this is for Intel or Apple Silicon**
+
 ___
+
 # Strong 8K Apps
 These apps are not recommended for long-term use, but can be useful for trialing the software / different players. 
 
