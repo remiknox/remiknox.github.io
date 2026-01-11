@@ -1,9 +1,9 @@
 # Recommended Players
-
+Below is a list of my recommended IPTV players by platform.
 ___
 
-## Android
-### TiviMate
+# Android
+## TiviMate
 * Website: [TiviMate.com](https://tivimate.com)
 * Reddit Community: [r/TiviMate](https://www.reddit.com/r/TiviMate)
 * Download:
@@ -14,7 +14,7 @@ ___
 
 <img src="/Screenshots/TiviMate.png" height=300>
 
-### Sparkle Player
+## Sparkle Player
 * Website: None
 * Reddit Community: [r/SparklePlayer](https://www.reddit.com/r/SparklePlayer/)
 * Download:
@@ -25,7 +25,7 @@ ___
 
 <img src="/Screenshots/Sparkle.png" height=300>
 
-### IPTV Smarters
+## IPTV Smarters
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
 * Download:
     * [APK Download](https://www.iptvsmarters.com/download?download=android)
@@ -36,9 +36,9 @@ ___
 
 ___
 
-## iOS
+# iOS
 
-### UHF
+## UHF
 * Website: [UHFapp.com](https://uhfapp.com)
 * Reddit Community: [r/UHF_app](https://www.reddit.com/r/UHF_app)
 * Download:
@@ -47,7 +47,7 @@ ___
 
 <img src="/Screenshots/UHF.jpeg" height=300>
 
-### Chillio
+## Chillio
 * Website: [Chillio.app](https://chillio.app/)
 * Reddit Community: [r/Chillio](https://www.reddit.com/r/Chillio)
 * Download:
@@ -58,7 +58,7 @@ ___
 
 <img src="/Screenshots/Chillio.jpg" height=300>
   
-### Smarters Player Lite
+## Smarters Player Lite
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
 * Download:
     * [Apple App Store](https://apps.apple.com/us/app/smarters-player-lite/id1628995509)
@@ -68,8 +68,8 @@ ___
 
 ___
 
-## Windows
-### IPTV Smarters
+# Windows
+## IPTV Smarters
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
 * Download:
     * [Installer Download](https://www.iptvsmarters.com/download?download=windows_app)
@@ -77,13 +77,10 @@ ___
 
 ___
 
-## Mac
-### IPTV Smarters
-* Website: [iptvsmarters.com](https://www.iptvsmarters.com)
-* Download:
-    * [Installer Download](https://www.iptvsmarters.com/download?download=mac)
-* Price: N/A
-* **Note: TBD whether this is for Intel or Apple Silicon**
+# Mac
+On Apple Silicon (M-series) Macs, UHF and Chillio work well. 
+
+On Intel Macs, I would recommend IPTV Smarters ([Download](https://www.iptvsmarters.com/download?download=mac))
 
 ___
 
