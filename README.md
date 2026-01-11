@@ -1,3 +1,3 @@
 # Table of Contents
 
-* [List of Player Apps](iptv-players.md)
+* [List of Player Apps](iptv_players.md)
