@@ -92,12 +92,8 @@ These apps are not recommended for long-term use, but can be useful for trialing
 
 |App|Release Date|Downloader Code|Notes|Screenshot|
 |:-|:-|:-|:-|:-|
-|Fast 8k Player|2024-05-04|948558||[Screenshot](https://i.ibb.co/fdTSPwHq/Screenshot-Fast-8-K-Player.png)|
 |8k Player VIP|2024-05-04|439873|Rebranded ibo (Ibpro Smart Player)|[Screenshot](https://i.ibb.co/V03PQ5LV/Screenshot-8-K-Player-VIP.png)|
-|Strong Power|2024-05-04|109173||[Screenshot](https://i.ibb.co/4nKCK5B7/Screenshot-Strong-Power.png)|
-|8K Player VOD|2024-07-24|479984|VOD only; supports TMDB|[Screenshot](https://i.ibb.co/sMgfTWK/Screenshot-8-K-Player-VOD.png)|
 |TiviMate 8K Pro|2025-07-12|5811661|Rebranded TiviMate|[Screenshot](https://i.ibb.co/C3yv1LzY/Screenshot-Tivi-Mate-8-K.jpg)|
-|Web Player|2025-08-22|\[N/A\]||[Screenshot](https://i.ibb.co/spnjcvkf/Screenshot-Web-Player.jpg)|
 |8K Player Plus|2025-09-24|1240465||[Screenshot](https://i.ibb.co/QjMJ3R5G/Screenshot-8-K-Player-Plus.jpg)|
 |8K Player VIP+|2025-09-24|6883465||[Screenshot](https://i.ibb.co/6cHmngd8/Screenshot-8-K-Player-VIP.jpg)|
 |8K Player Prime|2025-09-24|1050263||[Screenshot](https://i.ibb.co/v44zvZz7/Screenshot-8-K-Player-Prime.jpg)|
