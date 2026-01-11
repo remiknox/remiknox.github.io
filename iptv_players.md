@@ -1,70 +1,70 @@
 # Recommended Players
-
+___
 ## Android
 ### TiviMate
 * Website: [TiviMate.com](https://tivimate.com)
 * Reddit Community: [r/TiviMate](https://www.reddit.com/r/TiviMate)
 * Download:
- * [Google Play Store](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
- * [APK Download](https://files.tivimate.com/tivimate.apk)
- * Downloader: 272483
+    * [Google Play Store](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)
+    * [APK Download](https://files.tivimate.com/tivimate.apk)
+    * Downloader: 272483
 * Price: Lifetime (5 devices) US$33.88 / CA$44.99
 
 ### Sparkle Player
 * Website: None
 * Reddit Community: [r/SparklePlayer](https://www.reddit.com/r/SparklePlayer/)
 * Download:
- * [Google Play Store](https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle)
- * [APK Download](https://dl.dropbox.com/scl/fi/6huxctu1d3uznqtl6swx9/sparkle_202028.apk?rlkey=b3784fffrt5m9mptd3wh92fum&st=js1hbvtw&dl=1)
- * Downloader: 2696977
+    * [Google Play Store](https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle)
+    * [APK Download](https://dl.dropbox.com/scl/fi/6huxctu1d3uznqtl6swx9/sparkle_202028.apk?rlkey=b3784fffrt5m9mptd3wh92fum&st=js1hbvtw&dl=1)
+    * Downloader: 2696977
 * Price: Unknown
 
 ### IPTV Smarters
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
 * Download:
- * [APK Download](https://www.iptvsmarters.com/download?download=android)
- * Downloader: 6468112
+    * [APK Download](https://www.iptvsmarters.com/download?download=android)
+    * Downloader: 6468112
 * Price: N/A
-
+___
 ## iOS
 
 ### UHF
 * Website: [UHFapp.com](https://uhfapp.com)
 * Reddit Community: [r/UHF_app](https://www.reddit.com/r/UHF_app)
 * Download:
- * [Apple App Store](https://apps.apple.com/us/app/uhf-love-your-iptv/id6443751726)
+    * [Apple App Store](https://apps.apple.com/us/app/uhf-love-your-iptv/id6443751726)
 * Price: Lifetime (5 devices) CA$69.99
 
 ### Chillio
 * Website: [Chillio.app](https://chillio.app/)
 * Reddit Community: [r/Chillio](https://www.reddit.com/r/Chillio)
 * Download:
- * [Apple App Store](https://apps.apple.com/us/app/chillio-iptv-smart-player/id6478813450)
+    * [Apple App Store](https://apps.apple.com/us/app/chillio-iptv-smart-player/id6478813450)
 * Price:
-  * Lifetime (individual) US$99.99
-  * Lifetime (family) US$199.99 
+     * Lifetime (individual) US$99.99
+     * Lifetime (family) US$199.99 
   
 ### Smarters Player Lite
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
 * Download:
- * [Apple App Store](https://apps.apple.com/us/app/smarters-player-lite/id1628995509)
+    * [Apple App Store](https://apps.apple.com/us/app/smarters-player-lite/id1628995509)
 * Price: Premium Lifetime CA$2.99 
-
+___
 ## Windows
 ### IPTV Smarters
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
 * Download:
- * [Installer Download](https://www.iptvsmarters.com/download?download=windows_app)
+    * [Installer Download](https://www.iptvsmarters.com/download?download=windows_app)
 * Price: N/A
-
+___
 ## Mac
 ### IPTV Smarters
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
 * Download:
- * [Installer Download](https://www.iptvsmarters.com/download?download=mac)
+    * [Installer Download](https://www.iptvsmarters.com/download?download=mac)
 * Price: N/A
 * TBD whether this is for Intel or Apple Silicon 
-
+___
 # Strong 8K Apps
 These apps are not recommended for long-term use, but can be useful for trialing the software / different players. 
 |App|Release Date|Downloader Code|Notes|Screenshot|
