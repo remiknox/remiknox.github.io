@@ -13,7 +13,7 @@ ___
     * Downloader: 272483
 * Price: Lifetime (5 devices) US$33.88 / CA$44.99
 
-<img src="/Screenshots/Sparkle.png" width=600>
+<img src="/Screenshots/TiviMate.png" width=500>
 
 ## Sparkle Player
 * Website: None
@@ -24,7 +24,7 @@ ___
     * Downloader: 2696977
 * Price: Unknown
 
-<img src="/Screenshots/Sparkle.png" max-height=300>
+<img src="/Screenshots/Sparkle.png"  width=500>
 
 ## IPTV Smarters
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
@@ -33,7 +33,7 @@ ___
     * Downloader: 6468112
 * Price: N/A
 
-<img src="/Screenshots/Smarters.jpg" max-height=300>
+<img src="/Screenshots/Smarters.jpg"  width=500>
 
 ___
 
@@ -46,7 +46,7 @@ ___
     * [Apple App Store](https://apps.apple.com/us/app/uhf-love-your-iptv/id6443751726)
 * Price: Lifetime (5 devices) CA$69.99
 
-<img src="/Screenshots/UHF.jpeg" max-height=300>
+<img src="/Screenshots/UHF.jpeg"  width=500>
 
 ## Chillio
 * Website: [Chillio.app](https://chillio.app/)
@@ -57,7 +57,7 @@ ___
      * Lifetime (individual) US$99.99
      * Lifetime (family) US$199.99
 
-<img src="/Screenshots/Chillio.jpg" max-height=300>
+<img src="/Screenshots/Chillio.jpg"  width=500>
   
 ## Smarters Player Lite
 * Website: [iptvsmarters.com](https://www.iptvsmarters.com)
@@ -65,7 +65,7 @@ ___
     * [Apple App Store](https://apps.apple.com/us/app/smarters-player-lite/id1628995509)
 * Price: Premium Lifetime CA$2.99
 
-<img src="/Screenshots/Smarters.jpg" max-height=300>
+<img src="/Screenshots/Smarters.jpg"  width=500>
 
 ___
 
