@@ -13,7 +13,7 @@ ___
     * Downloader: 272483
 * Price: Lifetime (5 devices) US$33.88 / CA$44.99
 
-<img src="/Screenshots/TiviMate.png" height=300>
+<img src="/Screenshots/TiviMate.png" max-height=300>
 
 ## Sparkle Player
 * Website: None
